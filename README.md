@@ -1,4 +1,4 @@
-# gps-network-tracking-system
+# GPS Network Tracking System
 System for realtime tracking and archive of a mobile devices network
 
 
