@@ -3,7 +3,7 @@ System for realtime tracking and archive of a mobile devices network
 
 [The Project Schema](Schema.pdf)
 
-[Demo](http://labs.easyblog.it/maps/gps-network-tracking-system/)
+[Demo](https://opengeo.tech/maps/gps-network-tracking-system/)
 
 
 ## Technologies
